@@ -8,6 +8,6 @@ public class Main {
         // testujemy commity
         // aplikacje w roznych srodowiskach
         // druga grupa
-        // zajecisa
+        // zajecia
     }
 }
