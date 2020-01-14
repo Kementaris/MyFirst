@@ -7,5 +7,7 @@ public class Main {
         // uczymy sie gita :)
         // testujemy commity
         // aplikacje w roznych srodowiskach
+        // druga grupa
+        // zajecisa
     }
 }
