@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         // uczymy sie gita :)
         // testujemy commity
+        // aplikacje w roznych srodowiskach
     }
 }
